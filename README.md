@@ -10,7 +10,7 @@ En el segundo día, se abordarán dos paquetes de R para modelar estructuras fam
 
 # Fechas y horarios 
 
-9 y 10 de diciembre de 2024 de 10am a 4pm.
+9 y 10 de diciembre de 2024 de 9am a 5:30pm.
 
 # Localización 
 
