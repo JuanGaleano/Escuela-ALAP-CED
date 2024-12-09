@@ -15,3 +15,7 @@ En el segundo día, se abordarán dos paquetes de R para modelar estructuras fam
 # Localización 
 
 Universidad Externado de Colombia, Calle 12 #1-17 Este, Bogotá, Colombia.
+
+# ARTICULO CORESIDENCE DATABASE OPEN ACCESS
+
+https://www.nature.com/articles/s41597-024-02964-3
